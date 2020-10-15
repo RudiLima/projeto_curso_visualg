@@ -1,0 +1,83 @@
+Tipos de dados:
+Inteiro, Real, Caractere, Lógico;
+
+Variaveis:
+Não se usa caracteres especiais nos nomes;
+
+primeiroNome > Chama-se CamelCase
+
+=============
+
+Entrada de dados:
+Input de dados, entrada do usuario
+
+Saida de dados:
+Resultado do problema, output
+
+Usabilidade: Facil para o usuario
+
+=======================
+
+Estruturas de controle:
+1 Sequencial - Linha a linha, instruções 
+2 Condicional - Se, senao e escolha
+3 Repetição - PAra...faça, enquanto...faça, repita
+
+===========================
+Operações Lógicas
+
+Os fluxos definidos caso ocorra um evento.
+
+Os tipos:
+Negação - Checa se for diferente e continua ou altera o caminho
+Conjunção - Quando os dois valores são verdadeiros
+Disjunção - Caso dois valores e um dos valores seja verdadeiro o resultado é verdadeiro
+Disjunção Exclusiva - Apenas um valor pode ser verdadeiro o restante pode ser falso
+Condicional - Se ocorre, temos um resultado 
+Bicondicional - Se ocorre dois eventos, seria uma condicional dupla
+
+===================================
+Operadores aritmeticos
++, -, *,/ ,%
+
+==================================
+Operadores relacionais
+Equal (==)
+Not equal (!=)
+Strict equal (===)
+Strict not equal (!==)
+Greater than (>)
+Greater than or equal (>=)
+Less than (<)
+Less than or equal (<=)
+******
+Note: (=>) is not an operator, but the notation for Arrow functions.
+ =======================================
+Concatenação
+
+Juntar ou mostrar algo com string ou numerp
+
+Modelo de concatenaçao:
+escreval (nome, " : ", numero)
+A "," seria a concatenação
+=========================================
+Estruturas de controle condicional
+
+Se e Senao
+Escolha
+========================================
+Estrutura de Repetição
+
+Para-Faca: Bloco de intruçoes de repetição que sabe quantas vzs vai se repetir
+
+Enquanto: Controle não fica dentro da estrutura
+
+
+
+
+==========================================
+
+
+
+
+
